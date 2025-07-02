@@ -14,7 +14,7 @@ const perguntas = [
             },
             {
                 texto: "Comprador(a) Impulsivo(a)",
-                afirmacao: "Você se sente atraído(a) por ofertas e muitas vezes compra mais do que planejava, especialmente itens que talvez não use antes que estraguem. Sua geladeira e despensa podem ter alguns "tesouros escondidos" que você esqueceu."
+                afirmacao: "Você se sente atraído(a) por ofertas e muitas vezes compra mais do que planejava, especialmente itens que talvez não use antes que estraguem. Sua geladeira e despensa podem ter alguns tesouros escondidos que você esqueceu."
             }
         ]
     },

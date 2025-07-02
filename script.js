@@ -9,12 +9,12 @@ const perguntas = [
         enunciado: "1. Ao fazer compras no supermercado, qual das seguintes atitudes melhor te descreve?",
           alternativas: [
             {
-                texto: "Comprador(a)",
-                afirmacao: "Consciente: Você costuma fazer uma lista antes de sair de casa e se esforça para comprar apenas o necessário, evitando promoções que te levariam a adquirir mais do que realmente precisa. Sua despensa e geladeira são bem organizadas e você sabe o que tem. "
+                texto: " Comprador(a) Consciente",
+                afirmacao: "Você costuma fazer uma lista antes de sair de casa e se esforça para comprar apenas o necessário, evitando promoções que te levariam a adquirir mais do que realmente precisa. Sua despensa e geladeira são bem organizadas e você sabe o que tem."
             },
             {
-                texto: "Isso é maravilhoso!",
-                afirmacao: "Quis saber como usar IA no seu dia a dia."
+                texto: "Comprador(a) Impulsivo(a)",
+                afirmacao: "Você se sente atraído(a) por ofertas e muitas vezes compra mais do que planejava, especialmente itens que talvez não use antes que estraguem. Sua geladeira e despensa podem ter alguns "tesouros escondidos" que você esqueceu."
             }
         ]
     },

@@ -22,12 +22,12 @@ const perguntas = [
         enunciado: "2. Sobras de refeições são um desafio para você?",
         alternativas: [
             {
-                texto: "UMestre das Sobras:",
-                afirmacao: "Conseguiu utilizar a IA para buscar informações úteis."
+                texto: "Mestre das Sobras:",
+                afirmacao: " Você adora transformar sobras em novas e deliciosas refeições, ou as congela para consumo posterior. Para você, nada se perde, tudo se transforma!"
             },
             {
-                texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
-                afirmacao: "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho."
+                texto: "Despreocupado(a) com Sobras",
+                afirmacao: "Você tende a jogar fora as sobras que não foram consumidas imediatamente. A ideia de dar um jeito nas sobras não é algo que te ocorre com frequência."
             }
         ]
     },
